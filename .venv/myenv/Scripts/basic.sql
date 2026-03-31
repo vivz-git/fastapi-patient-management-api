@@ -1,0 +1,2 @@
+CREATE DATABASE vivzz_db;
+
